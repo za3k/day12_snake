@@ -12,7 +12,7 @@ load_info({
     "project_name": "Hack-A-Snake",
     "source_url": "https://github.com/za3k/day12_snake",
     "subdir": "/hackaday/snake",
-    "description": "A small snake game.",
+    "description": "A small snake game. To watch an AI play, visit <a href=\"https://tilde.za3k.com/hackaday/mini/\">Hack-A-Minigame</a>",
     "instructions": "Keyboard controls. Move using W/A/S/D or Up/Down/Left/Right. Restart by pressing R.",
     "login": False,
     "fullscreen": False,
